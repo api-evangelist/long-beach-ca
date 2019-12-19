@@ -1,0 +1,39 @@
+{
+    "name": "Long Beach, CA",
+    "description": "openLB is your one-stop shop for data and information about Long Beach. Click any of the tiles to the left, and you???ll have access to health stats, demographic info, the latest news, and much more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-06-pm.jpg",
+    "tags": [
+        "api provider",
+        "city government",
+        "data provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/long-beach-ca\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Long Beach, CA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-06-pm.jpg",
+            "humanURL": "http:\/\/www.longbeach.gov\/openlb\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/long-beach-ca-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.longbeach.gov\/openlb\/"
+        }
+    ]
+}
